@@ -1,0 +1,15 @@
+/home/sergey/Documentos/Sergey/FakerDataBogus/bin/Debug/netcoreapp3.1/FakerDataBogus
+/home/sergey/Documentos/Sergey/FakerDataBogus/bin/Debug/netcoreapp3.1/FakerDataBogus.deps.json
+/home/sergey/Documentos/Sergey/FakerDataBogus/bin/Debug/netcoreapp3.1/FakerDataBogus.runtimeconfig.json
+/home/sergey/Documentos/Sergey/FakerDataBogus/bin/Debug/netcoreapp3.1/FakerDataBogus.runtimeconfig.dev.json
+/home/sergey/Documentos/Sergey/FakerDataBogus/bin/Debug/netcoreapp3.1/FakerDataBogus.dll
+/home/sergey/Documentos/Sergey/FakerDataBogus/bin/Debug/netcoreapp3.1/FakerDataBogus.pdb
+/home/sergey/Documentos/Sergey/FakerDataBogus/bin/Debug/netcoreapp3.1/Bogus.dll
+/home/sergey/Documentos/Sergey/FakerDataBogus/obj/Debug/netcoreapp3.1/FakerDataBogus.csprojAssemblyReference.cache
+/home/sergey/Documentos/Sergey/FakerDataBogus/obj/Debug/netcoreapp3.1/FakerDataBogus.AssemblyInfoInputs.cache
+/home/sergey/Documentos/Sergey/FakerDataBogus/obj/Debug/netcoreapp3.1/FakerDataBogus.AssemblyInfo.cs
+/home/sergey/Documentos/Sergey/FakerDataBogus/obj/Debug/netcoreapp3.1/FakerDataBogus.csproj.CoreCompileInputs.cache
+/home/sergey/Documentos/Sergey/FakerDataBogus/obj/Debug/netcoreapp3.1/FakerDataBogus.csproj.CopyComplete
+/home/sergey/Documentos/Sergey/FakerDataBogus/obj/Debug/netcoreapp3.1/FakerDataBogus.dll
+/home/sergey/Documentos/Sergey/FakerDataBogus/obj/Debug/netcoreapp3.1/FakerDataBogus.pdb
+/home/sergey/Documentos/Sergey/FakerDataBogus/obj/Debug/netcoreapp3.1/FakerDataBogus.genruntimeconfig.cache

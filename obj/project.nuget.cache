@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gaq2PHHK4DnAeZpXT5TJLuGOzBx+i4Qto+EWsgF2XO0rG0QnfHVBEox8P+Qtadm+u6jxe2aV0/tGCwqipPLjeQ==",
+  "success": true,
+  "projectFilePath": "/home/sergey/Documentos/Sergey/FakerDataBogus/FakerDataBogus.csproj",
+  "expectedPackageFiles": [
+    "/home/sergey/.nuget/packages/bogus/29.0.2/bogus.29.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
